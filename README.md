@@ -1,105 +1,132 @@
-### 👋 ¡Hola! Soy Juan Esteban
+<!-- Encabezado animado -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100&color=F77D26&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+Juan+Pérez;Software+and+Digital+Business+Student." alt="Typing SVG" />
+</p>
+
+---
+
+# 👋 Soy Juan Esteban Pérez Velázquez
 
 🎓 Estudiante de Desarrollo de Software y Negocios Digitales en el Tecnológico de Software.  
-💻 Apasionado por la tecnología, con el objetivo de desarrollar soluciones que mejoren el futuro.  
-📚 Este perfil incluye mis primeros pasos en desarrollo, bases de datos y desarrollo móvil.
+💡 Apasionado por la innovación, el aprendizaje continuo y la tecnología.  
+🚀 Buscando mejorar el futuro a través del código.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" />
+</p>
 
 ---
 
-### 🛠️ Tecnologías que manejo:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+## 🚀 Sobre mí
+
+- 📍 Mérida, México  
+- 🌱 Actualmente profundizando en AWS y Java  
+- 💬 Me encanta aprender sobre desarrollo backend, móvil y cloud  
+- 🧠 Siempre motivado por los retos que requieren pensamiento crítico
 
 ---
 
-### 💡 Habilidades personales:
-- Trabajo en equipo 🤝  
-- Resolución de problemas 🔍  
-- Comunicación efectiva 💬  
+## 🛠️ Tecnologías que manejo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,spring,postgres,git,github,maven,gradle&perline=5" />
+</p>
 
 ---
 
-### 🚀 Proyectos destacados:
+## 💡 Habilidades blandas
 
-- **📱 [The Spot](https://github.com/JJJEEEz/the_spot_proyectofinal)**  
-  _Mi primer proyecto en Flutter, desarrollado como proyecto final de la materia de POO. Me ayudó a entender bases de datos y autenticación de usuarios._
-
-- **🍩 [Donut App](https://github.com/JJJEEEz/donut-app-backend)**  
-  _Simulación de una tienda en línea con Java Spring Boot y PostgreSQL._
-
-- **📦 [market-app-JuanPerez](https://github.com/JJJEEEz/market-app-JuanPerez)**  
-  _Proyecto con Java, Spring y Gradle que expone una base de datos a través de una API REST. Contiene controllers, entities, services, repositories y sigue buenas prácticas de desarrollo backend._
-
-- **📊 Otros proyectos educativos**  
-  Ejercicios en Python y Java, apps móviles, y sistemas CRUD que demuestran mi aprendizaje en distintas áreas del desarrollo.
+- 🤝 Trabajo en equipo  
+- 🧠 Pensamiento crítico  
+- 💬 Comunicación efectiva  
+- 🔍 Resolución de problemas  
+- ⏱️ Organización y gestión del tiempo  
+- 🚀 Proactividad
 
 ---
 
-### 🌐 Conecta conmigo:
+## 🌟 Proyectos Destacados
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-pvz/)
+### 📱 [The Spot](https://github.com/JJJEEEz/the_spot_proyectofinal)
+Red social desarrollada en Flutter y Firebase. Permite registro e inicio de sesión, publicación de "lienzos" públicos y gestión de sesiones de usuario.
 
----
+### 🍩 [Donut App (Backend)](https://github.com/JJJEEEz/donut-app-backend)
+Simulación de tienda en línea usando Java Spring Boot, PostgreSQL y arquitectura MVC con buenas prácticas REST.
 
-### 📈 Stats y actividad:
+### 📦 [market-app-JuanPerez](https://github.com/JJJEEEz/market-app-JuanPerez)
+API REST desarrollada con Java, Spring y Gradle. Incluye controllers, services, entities y repositories. Sigue principios de diseño limpio y desacoplado.
 
-![Profile views](https://komarev.com/ghpvc/?username=JJJEEEz&style=flat-square)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JJJEEEz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJJEEEz&layout=compact&theme=radical)
+### 🧪 Otros proyectos educativos
+Sistemas CRUD, ejercicios en Python y Java, prácticas con bases de datos, desarrollo móvil y fundamentos cloud.
 
 ---
 
 ## 🌍 English Version
 
-### 👋 Hello! I'm Juan Esteban
+### 👋 I'm Juan Esteban Pérez Velázquez
 
 🎓 Software Development and Digital Business student at Tecnológico de Software.  
-💻 Passionate about technology, aiming to develop tools for a better future.  
-📚 My profile showcases my early work with mobile development, databases, and backend.
+💻 Passionate about technology and innovation, always seeking to build tools for a better future.  
+📚 My profile showcases early work in mobile development, cloud, and backend.
 
 ---
 
-### 🛠️ Technologies I use:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 🛠️ Technologies I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,spring,postgres,git,github,maven,gradle&perline=5" />
+</p>
 
 ---
 
-### 💡 Soft Skills:
+### 💡 Soft Skills
+
 - Teamwork 🤝  
-- Problem-solving 🔍  
+- Critical thinking 🧠  
 - Effective communication 💬  
+- Problem-solving 🔍  
+- Time management ⏱️  
+- Proactivity 🚀
 
 ---
 
-### 🚀 Highlighted Projects:
+### 🚀 Featured Projects
 
 - **📱 [The Spot](https://github.com/JJJEEEz/the_spot_proyectofinal)**  
-  _My first Flutter project, created as the final project for my OOP class. It helped me learn about databases and login systems._
+  Social network built with Flutter and Firebase. Includes login, user sessions, and post sharing.
 
-- **🍩 [Donut App (Backend)](https://github.com/JJJEEEz/donut-app-2c)**  
-  _Online shop simulation with Java Spring Boot and PostgreSQL._
+- **🍩 [Donut App (Backend)](https://github.com/JJJEEEz/donut-app-backend)**  
+  Online store simulation using Java Spring Boot and PostgreSQL.
 
 - **📦 [market-app-JuanPerez](https://github.com/JJJEEEz/market-app-JuanPerez)**  
-  _A project built with Java, Spring, and Gradle to expose a database through a REST API. Includes controllers, entities, services, repositories, and follows backend best practices._
+  REST API project with controllers, services, repositories and clean backend architecture.
 
 - **📊 Other Educational Projects**  
-  Exercises in Python and Java, mobile apps, and CRUD systems that demonstrate my learning across different areas of development.
+  Python/Java exercises, mobile apps, and full CRUD systems that showcase learning across multiple areas.
 
 ---
 
-### 🌐 Connect with me:
+## 🌐 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-pvz/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-esteban-pvz/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📈 GitHub Activity:
+## 📈 GitHub Activity
 
-![Profile views](https://komarev.com/ghpvc/?username=JJJEEEz&style=flat-square)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JJJEEEz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJJEEEz&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JJJEEEz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJJEEEz&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://komarev.com/ghpvc/?username=JJJEEEz&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
